@@ -22,7 +22,7 @@
       
   <div align="center">
     
-   $\color{white}{\textsf{࿐ ࿔*:･ﾟ @ 𝙕𝙀𝙉 [𝔃𝓮𝓷𝓷𝓲𝓮] . }}$ <br>
+   $\color{white}{\textsf{࿐ ࿔*:･ﾟ @ 𝑺𝑨𝑵𝑫 [𝓭𝓮𝓿𝓸𝓾𝓻𝓮𝓻] . }}$ <br>
     
    $\color{white}{\textsf{❛❜ .ೃ࿐ 𝓱𝓮 / 𝓱𝓲𝓶 ꜝꜝ  }}$ <br>
      
