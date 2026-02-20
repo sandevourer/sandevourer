@@ -22,7 +22,7 @@
       
   <div align="center">
     
-   $\color{white}{\textsf{࿐ ࿔*:･ﾟ @ 𝓘𝑽𝑨𝑵 [𝓼𝒂𝒏𝒅] . }}$ <br>
+   $\color{white}{\textsf{࿐ ࿔*:･ﾟ @ 𝑰𝒗𝒂𝒏 [𝒔𝒂𝒏𝒅] . }}$ <br>
     
    $\color{white}{\textsf{❛❜ .ೃ࿐ 𝓱𝓮 / 𝓱𝓲𝓶 ꜝꜝ  }}$ <br>
      
