@@ -44,6 +44,12 @@
    </th>
    </tr>
 </table>
+</div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nitbbo57zpkjpiw5t4mp4fqnaq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nitbbo57zpkjpiw5t4mp4fqnaq&cover_image=true&theme=novatorem&show_offline=false&background_color=f5aeb7&interchange=false&profanity=false&bar_color=ffbfbf&bar_color_cover=false">
+  </a>
+</p>
 
 
 
