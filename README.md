@@ -15,7 +15,8 @@
 <img align="left" img src="https://64.media.tumblr.com/79a7086b027e82d6395f559c5b7f7935/61477f62b7f61877-47/s400x600/1180756f9fd191ffec44c17ed67ea7c049a41bef.pnj">
 
 <div align="center">
-  
+
+  <a href="https://sandevourer.atabook.org//"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=e3e9ed&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a> <a href="https://sandevourer.straw.page/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=607684&center=true&vCenter=true&width=200&height=30&lines=strawpage" alt="Typing SVG" /></a>
 <table>
   <tr>
     <th>
