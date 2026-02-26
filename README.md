@@ -23,23 +23,23 @@
       
   <div align="center">
     
-   $\color{white}{\textsf{࿐ ࿔*:･ﾟ @ 𝑰𝒗𝒂𝒏 [𝒔𝒂𝒏𝒅] . }}$ <br>
+   $\textcolor{#fcfdfd}{\textsf{࿐ ࿔*:･ﾟ @ 𝑰𝒗𝒂𝒏 [𝒔𝒂𝒏𝒅] . }}$ <br>
     
-   $\color{white}{\textsf{❛❜ .ೃ࿐ 𝓱𝓮 / 𝓱𝓲𝓶 ꜝꜝ  }}$ <br>
+   $\textcolor{#e4e9ec}{\textsf{❛❜ .ೃ࿐ 𝓱𝓮 / 𝓱𝓲𝓶 ꜝꜝ  }}$ <br>
      
-   $\color{white}{\textsf{ ⊹ 𝟭𝟳 𝔂.𝓸. ⋆ ፡ 𝓘𝓢𝓕𝓟}}$ <br>
+   $\textcolor{#cbd4da}{\textsf{ ⊹ 𝟭𝟳 𝔂.𝓸. ⋆ ፡ 𝓘𝓢𝓕𝓟}}$ <br>
       
-  $\color{white}{\textsf{ ₊˚ˑ༄ؘ 𝘾+𝙃 𝓕𝓻𝓮𝓮𝓵𝔂 !! 𝓦𝟮𝓘 ⟡}}$ <br>
+  $\textcolor{#bcc7ce}{\textsf{ ₊˚ˑ༄ؘ 𝘾+𝙃 𝓕𝓻𝓮𝓮𝓵𝔂 !! 𝓦𝟮𝓘 ⟡}}$ <br>
   
-   $\color{white}{\textsf{𝙄'𝙢 𝓸𝓯𝓯𝓽𝓪𝓫 𝙖𝙡𝙢𝙤𝙨𝙩 𝙖𝙡𝙡 𝙩𝙝𝙚 𝙩𝙞𝙢𝙚. .·˚ ༘ ꒱ }}$ <br>
+   $\textcolor{#99a8b2}{\textsf{𝙄'𝙢 𝓸𝓯𝓯𝓽𝓪𝓫 𝙖𝙡𝙢𝙤𝙨𝙩 𝙖𝙡𝙡 𝙩𝙝𝙚 𝙩𝙞𝙢𝙚. .·˚ ༘ ꒱ }}$ <br>
       
-  $\color{white}{\textsf{: ̗̀➛ 𝓢𝒐𝒄𝒊𝒂𝒍𝒍𝒚 𝒂𝒘𝒌𝒘𝒂𝒓𝒅}}$ <br>
+  $\textcolor{#637987}{\textsf{: ̗̀➛ 𝓢𝒐𝒄𝒊𝒂𝒍𝒍𝒚 𝒂𝒘𝒌𝒘𝒂𝒓𝒅}}$ <br>
   
-  $\color{white}{\textsf{࣪☄. *. ⋆ 𝓟𝒍𝒆𝒂𝒔𝒆 𝒑𝒍𝒆𝒂𝒔𝒆 𝒑𝒍𝒆𝒂𝒔𝒆 𝒑𝒍𝒆𝒂𝒔𝒆 𝒑𝒍𝒆𝒂𝒔𝒆}}$ <br>
+  $\textcolor{#526570}{\textsf{࣪☄. *. ⋆ 𝓟𝒍𝒆𝒂𝒔𝒆 𝒑𝒍𝒆𝒂𝒔𝒆 𝒑𝒍𝒆𝒂𝒔𝒆 𝒑𝒍𝒆𝒂𝒔𝒆 𝒑𝒍𝒆𝒂𝒔𝒆}}$ <br>
   
-   $\color{white}{\textsf{•°. *࿐ 𝓓𝑶𝑵'𝑻 𝓚𝓘𝓛𝓛  𝑴𝑬}}$ <br>
+   $\textcolor{#3e464d}{\textsf{•°. *࿐ 𝓓𝑶𝑵'𝑻 𝓚𝓘𝓛𝓛  𝑴𝑬}}$ <br>
       
-  $\color{white}{\textsf{ೃ‧₊› 𝓙𝒖𝒔𝒕 𝒈𝒊𝒗𝒆 𝒎𝒚 𝓛𝓘𝓕𝓔 𝒂 𝓬𝓱𝓪𝓷𝓬𝓮}}$ <br>
+  $\textcolor{#353b3f}{\textsf{ೃ‧₊› 𝓙𝒖𝒔𝒕 𝒈𝒊𝒗𝒆 𝒎𝒚 𝓛𝓘𝓕𝓔 𝒂 𝓬𝓱𝓪𝓷𝓬𝓮}}$ <br>
   
    </th>
    </tr>
