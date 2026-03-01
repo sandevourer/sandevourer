@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  <a href="https://sandevourer.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=e3e9ed&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a> <a href="https://sandevourer.straw.page/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=607684&center=true&vCenter=true&width=200&height=30&lines=strawpage" alt="Typing SVG" /></a>
+  <a href="https://sandevourer.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=e3e9ed&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a> <a href="https://sandevourer.straw.page/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=607684&center=true&vCenter=true&width=200&height=30&lines=strawpage" alt="Typing SVG" /></a> <a href="https://steamcommunity.com/profiles/76561199225984445/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=3e464d&center=true&vCenter=true&width=200&height=30&lines=steam" alt="Typing SVG" /></a>
 <table>
   <tr>
     <th>
