@@ -13,7 +13,7 @@
 
 </div>
 
-<img align=left width="440" height="440" alt="Без названия227_20260406151243" src="https://github.com/user-attachments/assets/1545493d-4962-4231-9957-b6539d77aeca" />
+<img align=left width="420" height="420" alt="Без названия227_20260406151243" src="https://github.com/user-attachments/assets/1545493d-4962-4231-9957-b6539d77aeca" />
 
 
 <div align="center">
