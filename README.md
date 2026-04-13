@@ -68,4 +68,3 @@
 
 <sub> <br>
 Credits : ⠀[♡](https://www.tumblr.com/ringsang-archived/785793517659275264/tw0-time-themepack-f2u-credit-if?source=share)⠀ [♡](https://www.tumblr.com/dollicure/797965595367882752/two-time-discord-layout?source=share)
-<img src="https://64.media.tumblr.com/f895dcb341c8d77a4cf864377b23947b/85edfd53d6d2bedd-77/s2048x3072/4eadd9624a5c9eadf4b4267610d8fa5b0b26949d.pnj"/>
