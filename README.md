@@ -14,7 +14,7 @@
 <div align="center">
 <a href="https://en.pronouns.page/@sanDevourer"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=d7d7d7&center=true&vCenter=true&width=200&height=30&lines=prns+page" alt="Typing SVG" /></a>
 <a href="https://sandevourer.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=d7d7d7&center=true&vCenter=true&width=200&height=30&lines=atabook" alt="Typing SVG" /></a> 
-<a href="sandevourer.straw.page"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=d7d7d7&center=true&vCenter=true&width=200&height=30&lines=strawpage" alt="Typing SVG" /></a>  
+<a href="https://sandevourer.straw.page/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+Script&size=16&duration=1&pause=5000&color=d7d7d7&center=true&vCenter=true&width=200&height=30&lines=strawpage" alt="Typing SVG" /></a>  
  
 
  
